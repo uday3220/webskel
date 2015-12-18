@@ -3,10 +3,10 @@ canonifyurls = false
 verbose = true
 
 # Configure these.
-baseurl = "https://CHANGE_ME: your domain"
-copyright = "CHANGE_ME: your full name"
+baseurl = "https://www.auraclicks.com"
+copyright = "Auraclicks"
 languageCode = "en-us"
-title = "CHANGE_ME's website"
+title = "Auraclicks's website"
 
 [params]
   # Optional: Set it to the UA-12345678-1 as generated via
