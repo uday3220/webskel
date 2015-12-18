@@ -23,10 +23,10 @@ summary = "CHANGE_ME"
 
 CHANGE_ME
 
-<a href="https://facebook.com/CHANGE_ME"><img src="/images/facebook.png" width=32 height=32 /></a>
+<a href="https://facebook.com/auraclicks"><img src="/images/facebook.png" width=32 height=32 /></a>
 <a href="https://twitter.com/CHANGE_ME"><img src="/images/twitter.png" width=32 height=32 /></a>
 <a href="https://linkedin.com/in/CHANGE_ME"><img src="/images/linkedin.png" width=32 height=32 /></a>
 <a href="https://google.com/+CHANGE_ME"><img src="/images/gplus.png" width=32 height=32 /></a>
 <a href="https://youtube.com/user/CHANGE_ME"><img src="/images/youtube.png" width=32 height=32 /></a>
 <a href="https://github.com/CHANGE_ME"><img src="/images/github.png" width=32 height=32 /></a>
-<a href="mailto:CHANGE_ME"><img src="/images/email.png" width=32 height=32 /></a>
+<a href="mailto:auraclicks.2016@gmail.com"><img src="/images/email.png" width=32 height=32 /></a>
